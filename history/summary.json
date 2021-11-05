@@ -4,19 +4,19 @@
     "url": "https://pterodactyl-installer.se",
     "icon": "https://favicons.githubusercontent.com/pterodactyl-installer.se",
     "slug": "pterodactyl-installer-se",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 481,
-    "timeDay": 419,
-    "timeWeek": 490,
-    "timeMonth": 443,
+    "timeDay": 424,
+    "timeWeek": 484,
+    "timeMonth": 442,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2021-11-05": 0
+      "2021-11-05": 20
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://checkip.pterodactyl-installer.se",
     "icon": "https://favicons.githubusercontent.com/checkip.pterodactyl-installer.se",
     "slug": "checkip-pterodactyl-installer-se",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 449,
-    "timeDay": 338,
-    "timeWeek": 415,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 448,
+    "timeDay": 367,
+    "timeWeek": 416,
     "timeMonth": 418,
-    "timeYear": 449,
+    "timeYear": 448,
     "dailyMinutesDown": {
-      "2021-11-05": 0
+      "2021-11-05": 20
     }
   }
 ]
