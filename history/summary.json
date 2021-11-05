@@ -4,35 +4,39 @@
     "url": "https://pterodactyl-installer.se",
     "icon": "https://favicons.githubusercontent.com/pterodactyl-installer.se",
     "slug": "pterodactyl-installer-se",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 482,
-    "timeDay": 385,
-    "timeWeek": 496,
-    "timeMonth": 442,
-    "timeYear": 482,
-    "dailyMinutesDown": {}
+    "time": 481,
+    "timeDay": 419,
+    "timeWeek": 490,
+    "timeMonth": 443,
+    "timeYear": 481,
+    "dailyMinutesDown": {
+      "2021-11-05": 0
+    }
   },
   {
     "name": "checkip.pterodactyl-installer.se",
     "url": "https://checkip.pterodactyl-installer.se",
     "icon": "https://favicons.githubusercontent.com/checkip.pterodactyl-installer.se",
     "slug": "checkip-pterodactyl-installer-se",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 454,
-    "timeDay": 484,
-    "timeWeek": 447,
-    "timeMonth": 425,
-    "timeYear": 454,
-    "dailyMinutesDown": {}
+    "time": 449,
+    "timeDay": 338,
+    "timeWeek": 415,
+    "timeMonth": 418,
+    "timeYear": 449,
+    "dailyMinutesDown": {
+      "2021-11-05": 0
+    }
   }
 ]
