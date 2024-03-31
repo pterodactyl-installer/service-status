@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 572,
-    "timeDay": 529,
-    "timeWeek": 523,
-    "timeMonth": 526,
+    "timeDay": 746,
+    "timeWeek": 570,
+    "timeMonth": 534,
     "timeYear": 576,
     "dailyMinutesDown": {
       "2023-07-13": 16
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/checkip.pterodactyl-installer.se.ico",
     "slug": "checkip-pterodactyl-installer-se",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 567,
-    "timeDay": 531,
-    "timeWeek": 526,
-    "timeMonth": 561,
-    "timeYear": 569,
+    "timeDay": 680,
+    "timeWeek": 548,
+    "timeMonth": 565,
+    "timeYear": 568,
     "dailyMinutesDown": {
       "2023-07-13": 16
     }
