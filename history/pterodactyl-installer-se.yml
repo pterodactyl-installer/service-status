@@ -1,7 +1,7 @@
 url: https://pterodactyl-installer.se
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-21T23:20:44.896Z
+status: up
+code: 200
+responseTime: 440
+lastUpdated: 2024-08-21T23:35:23.418Z
 startTime: 2021-09-23T15:53:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
