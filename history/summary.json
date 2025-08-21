@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pterodactyl-installer.se.ico",
     "slug": "pterodactyl-installer-se",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 594,
-    "timeDay": 427,
-    "timeWeek": 589,
-    "timeMonth": 595,
+    "time": 593,
+    "timeDay": 396,
+    "timeWeek": 575,
+    "timeMonth": 592,
     "timeYear": 598,
     "dailyMinutesDown": {
       "2025-08-15": 18
@@ -31,10 +31,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 578,
-    "timeDay": 344,
-    "timeWeek": 551,
-    "timeMonth": 557,
-    "timeYear": 580,
+    "timeDay": 493,
+    "timeWeek": 554,
+    "timeMonth": 556,
+    "timeYear": 579,
     "dailyMinutesDown": {
       "2025-08-15": 18
     }
