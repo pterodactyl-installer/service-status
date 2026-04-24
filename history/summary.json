@@ -4,9 +4,9 @@
     "url": "https://pterodactyl-installer.se",
     "icon": "https://icons.duckduckgo.com/ip3/pterodactyl-installer.se.ico",
     "slug": "pterodactyl-installer-se",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 599,
     "timeYear": 600,
     "dailyMinutesDown": {
+      "2026-04-24": 0,
       "2025-08-15": 18
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://checkip.pterodactyl-installer.se",
     "icon": "https://icons.duckduckgo.com/ip3/checkip.pterodactyl-installer.se.ico",
     "slug": "checkip-pterodactyl-installer-se",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 591,
+    "time": 592,
     "timeDay": 511,
     "timeWeek": 694,
     "timeMonth": 634,
     "timeYear": 595,
     "dailyMinutesDown": {
+      "2026-04-24": 0,
       "2025-08-15": 18
     }
   }
